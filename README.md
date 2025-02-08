@@ -33,7 +33,7 @@
   > *日本語が入力できるキーボード誕生！*
 
 - **setup_scripts/setup_usb_hid_gadget.sh**  
-  USB Gadget（HID、Audio、Serial を含む複合デバイス）の設定を行うスクリプト。
+  USB Gadget（HID だけの複合デバイス）の設定を行うスクリプト。
 
 - **setup_scripts/setup_usb_hid_gadget_service.sh**  
   上記の USB Gadget 設定スクリプトを `/usr/local/bin/` に配置し、systemd サービスとして登録・有効化するためのスクリプト。
