@@ -4,7 +4,8 @@
 このリポジトリは、Raspberry Pi Zero W を USB Gadget モードで動作させ、ホスト（例：Windows PC）に対してキーボード入力をエミュレートするためのスクリプト群をまとめたものです。特に、ASCII文字だけでなく日本語の漢字など非ASCII文字も入力できる点が特徴です。  
 ホストPCの Windows 10 の IME を ON にした状態で動作します。  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QMJmQvIDZQU?si=z_7HtEQnojOCUS-b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![host pc and raspi](image.png)](https://www.youtube.com/watch?v=QMJmQvIDZQU)
+
 
 ---
 
